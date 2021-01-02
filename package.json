@@ -1,0 +1,14 @@
+{
+  "name": "customrpc",
+  "version": "1.0.0",
+  "description": "Alpha",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "alpha",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
