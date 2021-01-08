@@ -1,4 +1,6 @@
 # Discord RPC
+## Description
+This repository is an example of how to make a rich presence in discord.
 ## Author
 AlphaBeta
 ## Dependencies
